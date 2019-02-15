@@ -1,1 +1,2 @@
 It is a planet!
+This line is from my laptop: Pluto is not a planet.
